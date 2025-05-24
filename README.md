@@ -8,7 +8,7 @@ C# • Java • JavaScript • HTML • CSS • PHP
 📚 Always curious, always learning.
 
 📫 How to reach me:  
-[![LinkedIn]()  
+[![LinkedIn](https://www.linkedin.com/in/antonia-ivanova-599bbb367/?trk=opento_sprofile_topcard)  
 [![Email]()
 
 ---
