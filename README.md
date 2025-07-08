@@ -5,6 +5,11 @@
 💻 Currently exploring:  
 C# • Java • JavaScript • HTML • CSS • PHP
 
+## 🔧 Featured Projects
+- **MovieCollectionManager**: C# WinForms app for managing movie database (SQLite)—[repo link]
+- **ToDoListGUIPlus**: Java Swing app with task prioritization—[repo link]
+- **RecipeApp (Java/Spring Boot)**: REST API for recipe management with CRUD endpoints—[repo link]
+
 📚 Always curious, always learning.
 
 📫 How to reach me:  
