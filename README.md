@@ -1,19 +1,48 @@
-## Hi there 👋# 👋 Hi, I'm Antonia
+# 👋 Hi, I'm Antonia
 
 🎓 I'm a Master's student in Software Engineering, passionate about learning and building software solutions.
 
-      
+---
 
 ## 🔧 Featured Projects
-- **MovieCollectionManager**: C# WinForms app for managing movie database (SQLite)—[repo link]
-- **ToDoListGUIPlus**: Java Swing app with task prioritization—[repo link]
-- **RecipeApp (Java/Spring Boot)**: REST API for recipe management with CRUD endpoints—[repo link]
 
-📚 Always curious, always learning.
+- **MovieCollectionManager**: C# WinForms app for managing movie database (SQLite)
+- **ToDoListGUIPlus**: Java Swing app with task prioritization
+- **RecipeApp (Java/Spring Boot)**: REST API for recipe management with CRUD endpoints
 
-📫 How to reach me:  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/antonia-ivanova-a57561373/)  
-[![Email]()
+🧠 Always curious, always learning.
+
+---
+
+## 🎯 Goals
+
+I'm currently looking for a **Junior Developer** role where I can apply my skills in C#, Java, and databases, and grow by solving real-world problems in a collaborative environment.
+
+
+
+## 🧠 Currently Learning
+
+- ASP.NET Core MVC & Entity Framework
+- Unit testing (xUnit/NUnit)
+- Git best practices
+- Clean code & design patterns
+
+---
+
+## 🧪 QA Skills
+
+- Writing manual test cases and test scenarios
+- Bug reporting with clear reproduction steps
+- Basic automation using Selenium (Java)
+- Exploratory testing mindset
+
+---
+
+## 📘 Certifications
+
+- ✅ C# Fundamentals – SoftUni
+- ✅ Java OOP – SoftUni
+- ✅ HTML & CSS Basics – freeCodeCamp
 
 ---
 
@@ -29,20 +58,9 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ---
 
+## 📬 How to reach me
+
+- [LinkedIn Profile](https://www.linkedin.com/in/https://www.linkedin.com/in/antonia-ivanova-a57561373//)
+- 📧 [Email](mailto:antoniqmml@mail.bg)
+
 ✨ Thank you for visiting my profile!
-
-
-<!--
-**antoniq3298/antoniq3298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
