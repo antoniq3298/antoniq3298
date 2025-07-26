@@ -25,7 +25,8 @@ C# • Java • JavaScript • HTML • CSS • PHP
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
-
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ---
 
 ✨ Thank you for visiting my profile!
