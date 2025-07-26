@@ -60,7 +60,7 @@ I'm currently looking for a **Junior Developer** role where I can apply my skill
 
 ## 📬 How to reach me
 
-- [LinkedIn Profile](https://www.linkedin.com/in/https://www.linkedin.com/in/antonia-ivanova-a57561373//)
+- [LinkedIn Profile](https://www.linkedin.com/in/antonia-ivanova-a57561373//)
 - 📧 [Email](mailto:antoniqmml@mail.bg)
 
 ✨ Thank you for visiting my profile!
